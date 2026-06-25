@@ -1,14 +1,13 @@
 # Zeeshan Haider
 
-### AI Engineer &nbsp;&nbsp; Data Scientist &nbsp;&nbsp; ML Engineer
-
-[LinkedIn](https://linkedin.com/in/zeeshan-hyder-5867b8247) • [GitHub](https://github.com/Zeeshanhaider2121) • zeeshanhyderr09@gmail.com
+| AI Engineer | Data Scientist | ML Engineer |
+[LinkedIn](https://linkedin.com/in/zeeshan-hyder-5867b8247) • [GitHub](https://github.com/Zeeshanhaider2121) • [zeeshanhyderr09@gmail.com](mailto:zeeshanhyderr09@gmail.com)
 
 ---
 
 ### About Me
 
-I am an AI Engineer and Data Scientist with 1+ year of experience building end-to-end pipelines for property prediction modeling, real estate recommendation systems, browser-automation AI agents, OCR with layout-preserving document extraction, and computer-vision object detection for logistics. I specialize in RAG pipelines with role-based access control, multi-agent systems, and deep learning. My focus is on building reliable, scalable, and production-ready AI solutions.
+I am an AI Engineer and Data Scientist with 1+ year of experience building end-to-end pipelines for property prediction modeling, real estate recommendation systems, browser-automation AI agents, OCR with layout-preserving document extraction, and computer-vision object detection for logistics. I specialize in RAG pipelines with role-based access control, multi-agent systems, and deep learning.
 
 ---
 
@@ -23,18 +22,17 @@ I am an AI Engineer and Data Scientist with 1+ year of experience building end-t
 
 ---
 
-### My Projects
+### Projects
 
 ## [UrduX – AI & Human Text Detection Framework](urdux.md)
 
-End-to-end framework for detecting AI-generated versus human-written Urdu text using transformer-based classification models fine-tuned on a custom dataset. Addresses the under-researched domain of low-resource language AI detection.
+End-to-end framework for detecting AI-generated versus human-written Urdu text using transformer-based classification models fine-tuned on a custom dataset. Addresses the under-researched domain of low-resource language AI detection. *Master's Thesis | FAST-NUCES (2024)*
 
 ---
 
 ### Experience
 
-**Ali Square** — Islamabad, Pakistan
-*Data Scientist / AI Engineer* | Feb 2025 – Present
+**Ali Square** — Islamabad, Pakistan *Data Scientist / AI Engineer* | Feb 2025 – Present
 
 - Built end-to-end RAG pipelines using Neo4j and LangChain with role-based access control for secure retrieval of sensitive information.
 - Developed AI automation agents for browser automation tasks, streamlining LinkedIn job applications and Instagram engagement via multi-agent workflows using Playwright, LangChain, LangGraph.
